@@ -1,6 +1,5 @@
 {
-    "name": "notocommentsvault-php",
-    "version": "2.0.0",
+    "name": "notocomments/vault-php",
     "type": "library",
     "license": "MIT",
     "description": "This is a fork of mittwald/vault-php PHP library for Vault",
