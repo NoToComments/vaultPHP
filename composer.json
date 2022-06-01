@@ -6,7 +6,7 @@
     "description": "This is a fork of mittwald/vault-php PHP library for Vault",
     "require": {
         "ext-json": "*",
-        "guzzlehttp/psr7": "^1.6",
+        "guzzlehttp/psr7": "^2.2",
         "php": "^7.0 || ^8.0",
         "php-http/httplug": ">=1.1.0"
     },
