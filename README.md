@@ -1,6 +1,6 @@
 # PHP Hashicorp Vault Client
 
-![Tests]()
+![Tests](https://github.com/notocomments/vaultPHP/workflows/CI%20Tests/badge.svg?branch=master)
 
 PHP Client Library for the Hashicorp Vault Service. 
 This Client follows the Request and Response Data equal to the Hashicorp Vault Client Documentation.
@@ -12,7 +12,7 @@ Feel free to open Pull Requests to add improvements or missing functionality.
 ## Installation
 
 ### Composer
-`composer require mittwald/vault-php`
+`composer require notocomments/vault-php`
 
 ## Implemented Functionality:
 - Auth
